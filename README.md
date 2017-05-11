@@ -8,5 +8,5 @@ My collections of awesome golang packages.
 
 ## Logging
 
-- [Logrus](https://github.com/Sirupsen/logrus): Structured, pluggable logging for Go.
-- [Zap](https://github.com/uber-go/zap): Blazing fast, structured, leveled logging in Go.
+- [Logrus](https://github.com/Sirupsen/logrus): Structured, pluggable logging for Go
+- [Zap](https://github.com/uber-go/zap): Blazing fast, structured, leveled logging in Go
